@@ -1,0 +1,524 @@
+,title,author,total words,vividness,passive voice,all adverbs,ly-adverbs,non-ly-adverbs,genre,year
+0,The Teacher,Michael Ben-Naftali,50233.0,37.06,7.2,2.93,1.25,1.68,"['Historical Fiction', 'Fiction', 'Israel', 'Jewish', 'Literary Fiction', 'World War II', 'War']",2016.0
+1,The Institute,Jakub Zulczyk,66557.0,57.45,7.48,2.92,1.28,1.63,"['Polish Literature', 'Fiction', 'Thriller', 'Poland', 'Mystery', 'Audiobook', 'Crime']",2010.0
+2,"Emotional Abuse, A Manual For Self-Defense","Zak Mucha, Joel Dvoskin & Marc MacYoung",69187.0,16.18,9.42,2.55,0.92,1.63,"['Psychology', 'Self Help', 'Nonfiction']",2017.0
+3,Relentless,Scott Bartlett & Joshua James,70433.0,36.34,9.27,3.18,1.1,2.09,['Science Fiction'],2021.0
+4,Buying Time,E. M. Brown,96759.0,44.14,7.47,2.79,0.75,2.03,"['Science Fiction', 'Time Travel', 'Fiction', 'Speculative Fiction', 'Science Fiction Fantasy']",2018.0
+5,Murder Around the Bend,John C. Dalgish,42478.0,43.3,7.87,2.73,0.79,1.95,"['Mystery', 'Fiction']",2019.0
+6,Song of the Earth,Justin C. Trout,101003.0,59.91,5.4,1.66,0.48,1.18,[],2017.0
+7,Woom,Matt Shaw & Duncan Ralston,30571.0,62.39,7.38,2.53,0.84,1.69,"['Horror', 'Fiction', 'Splatterpunk', 'Thriller', 'Novella', 'Dark', 'Adult']",2016.0
+8,Fellaheen,Jon Courtenay Grimwood,104081.0,57.37,7.05,3.21,1.25,1.96,[],
+9,Changes,Danielle Steel,128445.0,29.73,9.5,3.82,1.18,2.64,[],
+10,The Last Days Of The United States,Robert A. Heinlein,5299.0,32.66,8.49,2.64,1.13,1.51,[],
+11,Slewfoot,Gerald Brom,118924.0,59.29,6.55,2.61,0.66,1.96,[],
+12,Soul Eater,Lindsey Fairleigh,70181.0,52.06,7.24,2.75,1.08,1.67,"['Urban Fantasy', 'Fantasy', 'Paranormal', 'Audiobook', 'Romance', 'Magic', 'Fiction']",2018.0
+13,The Elementalist,J. R. Rain & Matthew S. Cox,54366.0,48.69,7.96,3.2,1.15,2.05,"['Paranormal', 'Mystery', 'Urban Fantasy', 'Fantasy']",2019.0
+14,Such a Fun Age,Kily Reid,85131.0,48.33,7.58,3.06,1.05,2.01,['Fiction'],2020.0
+15,Death in the Congo,David Ness,109942.0,43.53,8.03,2.27,0.63,1.64,[],
+16,Three Kings,George R. R. Martin & Melinda M. Snodgrass,108373.0,46.05,9.06,3.36,1.12,2.24,"['Fantasy', 'Science Fiction', 'Superheroes', 'Anthologies']",2020.0
+17,Chasing the Lion,A. J. Tata,101382.0,48.34,7.18,2.26,0.85,1.41,"['Thriller', 'Fiction', 'Adventure', 'Suspense', 'Mystery', 'Politics', 'Military Fiction']",2021.0
+18,Autumn of the Patriarch,Gabriel Garcia Marquez,91820.0,62.01,5.46,1.62,0.24,1.37,[],
+19,Light Over London,Julie Kelly,87228.0,45.07,8.53,2.68,0.81,1.86,[],
+20,Gateway to War,J. N. Chaney & Christopher Hopper,93393.0,40.74,8.09,2.93,0.82,2.11,"['Science Fiction', 'Military Fiction', 'Fantasy']",2019.0
+21,Act of Valor,Tom Clancy,87312.0,44.05,7.06,2.92,1.02,1.9,[],
+22,What You Don't Remember,Kristy Cooper & Steve Johnson,79738.0,40.51,8.71,2.9,0.89,2.01,[],2021.0
+23,"Pan's Labyrinth, The Labyrinth of the Faun",Guillermo del Toro & Cornelia Funke,53468.0,65.18,7.11,2.71,0.82,1.89,"['Fantasy', 'Horror', 'Young Adult', 'Fiction', 'Historical Fiction', 'Magical Realism', 'Historical']",2019.0
+24,Mika,Lee Murray & Piper Mejia,18448.0,62.96,7.55,2.67,0.95,1.72,[],2015.0
+25,Marital Law,David Brown,83104.0,35.58,7.81,3.03,1.27,1.76,[],
+26,The Hardy Boys: Trapped At Sea,Franklin W. Dixon,31820.0,50.41,6.84,2.74,1.01,1.73,[],
+27,Sunday After the War,Henry Miller,96205.0,37.88,7.87,3.1,1.15,1.95,[],
+28,Peculiar Peril,Jeff VenderMeer,186786.0,59.57,7.68,3.35,0.85,2.5,[],2020.0
+29,Twelve Naughty Days,Various Authors,103150.0,56.67,7.94,2.98,0.97,2.01,[],
+30,Vision,Jesse Laeuchli,17540.0,44.28,6.19,3.1,1.49,1.61,[],
+31,Duplicity,Charles A. Miller,84078.0,28.42,8.48,2.54,0.84,1.7,[],2021.0
+32,The Silenced,Brett Battles,92583.0,32.79,9.15,2.94,0.61,2.33,[],
+33,Into the Hourglass,Emily L. King,83434.0,73.77,6.5,2.25,0.63,1.62,"['Fantasy', 'Young Adult', 'Steampunk', 'Fiction', 'Audiobook', 'Romance', 'Amazon']",2019.0
+34,The Easy Life,Marguerite Duras,38770.0,43.37,9.04,3.41,1.11,2.3,[],
+35,The Outer Dark,Zachary Rawlins,203197.0,48.58,6.94,3.56,1.72,1.84,['Urban Fantasy'],2017.0
+36,Trail of Poison,M. J. Richards,69702.0,41.57,8.77,2.8,0.73,2.07,[],2020.0
+37,Lethal Agent,Vince Flynn & Kyle Mills,99734.0,41.79,8.62,2.87,1.28,1.59,"['Fiction', 'Thriller', 'Mystery', 'Mystery Thriller', 'Audiobook', 'Action', 'Espionage']",2019.0
+38,Endgame,A. K. Duboff,58391.0,31.92,9.18,2.74,0.78,1.95,[],2019.0
+39,Guise,Jack A. Salva,98903.0,46.38,7.19,3.18,1.39,1.78,['Science Fiction'],2022.0
+40,The Heart of Man,Erich Fromm,16116.0,14.36,7.07,2.72,0.97,1.74,[],
+41,Shadowcaster,Cinda Willians Chima,120780.0,49.58,9.01,2.74,0.76,1.97,"['Fantasy', 'Young Adult', 'Young Adult Fantasy', 'Magic', 'High Fantasy', 'Romance', 'Dragons']",2017.0
+42,The Silver Chair,C. S. Lewis,51751.0,51.62,8.82,3.69,0.95,2.74,[],
+43,The Long Reach,Michael Lesse,74277.0,29.6,10.74,3.33,1.18,2.15,"['Mystery', 'Mystery Thriller', 'Crime', 'Fiction', 'Amazon']",2018.0
+44,A Rift Between Cities,Liz Delton,75687.0,49.02,6.97,3.31,1.31,2.0,[],
+45,Virgo,Alathia Morgan,37202.0,29.43,10.71,2.78,0.82,1.96,[],
+46,Hard Time,Jody Taylor,127200.0,37.96,9.34,4.36,1.93,2.44,"['Time Travel', 'Science Fiction', 'Fantasy', 'Fiction', 'Historical Fiction', 'Audiobook', 'Humor']",2020.0
+47,The Hardy Boys: The Demolition Mission,Franklin W. Dixon,30031.0,48.8,6.96,2.62,1.15,1.48,[],
+48,Where The Bodies Are Buried,A. S. French,64272.0,43.91,8.83,2.02,0.21,1.81,[],
+49,Serpent Crescent,Vivian de Klerk,91947.0,55.35,7.16,3.63,1.47,2.16,['Fiction'],
+50,Saggitarius,Alathia Morgan,29890.0,25.59,10.6,2.82,0.99,1.83,[],
+51,Blood Awakens,Jessica Willis,132541.0,44.25,8.14,3.19,1.21,1.98,"['Fantasy', 'Dystopia', 'Adventure', 'Action', 'Urban Fantasy', 'Apocalyptic']",2019.0
+52,Blood of Gods,David Dalglish & Robert J. Duperre,200391.0,62.01,5.94,2.69,0.95,1.75,"['Fantasy', 'Horror', 'Fiction']",2014.0
+53,Empire Reborn,A. K. Duboff,109396.0,26.29,9.65,3.19,1.05,2.14,[],2021.0
+54,Curse of Iron,D. D. Miers & Graceley Knox,60239.0,46.87,7.69,2.4,0.77,1.63,"['Fae', 'Shapeshifters', 'Urban Fantasy', 'Fantasy', 'Magic', 'Paranormal', 'Paranormal Romance']",2018.0
+55,Fierce Conversations,Susan Craig Scott,72975.0,23.87,8.81,3.13,1.24,1.89,"['Self Help', 'Nonfiction', 'Psychology', 'Inspirational', 'Personal Development', 'Relationships', 'Productivity']",2022.0
+56,Past Rites,Claire Stibbe,89541.0,62.48,7.63,2.22,0.6,1.61,[],
+57,The Golden Road,L. M. Montgomery,75862.0,46.54,9.23,3.79,1.3,2.49,[],
+58,Good Company,Arthur M. Blank,63322.0,26.78,7.68,2.54,0.93,1.61,"['Business', 'Nonfiction', 'Leadership', 'Biography', 'Sports']",2020.0
+59,The Hardy Boys: The Robot's Revenge,Franklin W. Dixon,31522.0,48.91,7.13,2.92,1.19,1.74,[],
+60,The Assistant's Secret,Emerald O'Brien,71851.0,46.91,8.08,2.07,0.46,1.61,"['Fiction', 'Mystery', 'Thriller', 'Psychological Thriller']",2020.0
+61,In Her Shadow,Kristen Miller,97648.0,53.73,8.82,2.85,1.0,1.86,"['Mystery', 'Mystery Thriller', 'Thriller', 'Fiction', 'Adult', 'Retellings', 'Psychological Thriller']",2020.0
+62,The Revision of Psychoanalysis,Erich Fromm,39700.0,18.73,6.96,3.33,1.58,1.75,[],
+63,Shadows of Forgotten Ancestors,Carl Sagan & Ann Druyan,138270.0,51.87,7.12,3.55,1.69,1.87,"['Science', 'Nonfiction', 'History', 'Evolution', 'Biology', 'Philosophy', 'Anthropology']",1992.0
+64,"The Executioner, Cyberthreat",Don Pendelton,49004.0,40.45,8.81,2.6,0.82,1.77,[],
+65,The Hardy Boys: Reel Thrills,Franklin W. Dixon,32262.0,45.99,6.8,2.88,1.14,1.74,[],
+66,The Wedding,Danielle Steel,143374.0,27.51,10.1,3.98,1.45,2.52,[],
+67,Resistant,Rachel Sparks,55357.0,50.63,7.38,3.19,1.22,1.96,"['Science Fiction', 'Fiction', 'Romance', 'Adult Fiction', 'Adult']",2018.0
+68,The Rage of Ares,Christian Cameron,146437.0,43.04,7.34,2.63,0.65,1.99,[],
+69,Ashes of a Nightmare,Jalena Dunphy,101227.0,46.15,9.01,2.24,0.51,1.73,[],
+70,Queen of Izmoroz,Jon Skovron,126111.0,39.11,8.51,4.39,1.83,2.56,[],
+71,The Demagogue's Playbook,Eric A. Posner,71671.0,19.23,5.55,2.74,1.29,1.44,"['History', 'Politics', 'Audiobook', 'Nonfiction']",2020.0
+72,The Perfect Lie,Susanna Beard,83698.0,46.55,9.33,3.3,1.02,2.28,[],
+73,To The Death,Patrick Robinson,145377.0,41.1,7.21,3.33,1.38,1.95,"['Fiction', 'Thriller', 'Military Fiction', 'Terrorism', 'Action', 'War', 'Politics']",2008.0
+74,Johana Gustawsson,The Bleeding,65546.0,53.74,7.4,2.47,0.71,1.77,[],
+75,Night on Fire,L. T. Vargus & Tim McBain,96239.0,63.28,6.31,2.81,0.82,1.99,"['Thriller', 'Mystery', 'Crime', 'Fiction', 'Amazon', 'Mystery Thriller']",2019.0
+76,The Beggar's Pawn,John L'Heureux,57214.0,31.15,9.11,3.26,1.01,2.25,"['Fiction', 'Contemporary', 'Family', 'Adult']",2020.0
+77,Deeper,M. Malone & Nana Malone,60238.0,32.58,10.34,3.52,1.18,2.33,"['Romance', 'Amazon', 'Contemporary', 'Suspense', 'Romantic Suspense', 'Novella', 'Contemporary Romance']",2018.0
+78,The Last Victim,L. T. Vargus & Tim McBain,14407.0,63.51,7.39,2.74,0.82,1.92,"['Mystery', 'Suspense', 'Thriller', 'Mystery Thriller', 'Crime']",2017.0
+79,The Terranauts,T. C. Boyle,190806.0,49.1,8.48,2.96,1.01,1.95,[],
+80,When the Apricots Bloom,Gina Wilkerson,90352.0,66.84,6.89,2.22,0.69,1.52,[],2020.0
+81,Ardor,Roberto Calasso,126154.0,32.46,8.08,3.15,0.77,2.38,[],
+82,The Hardy Boys: Spark of Suspicion,Franklin W. Dixon,30403.0,40.42,7.46,2.7,0.75,1.95,[],
+83,The Hardy Boys: Passport To Danger,Franklin W. Dixon,30837.0,46.14,6.94,2.81,0.91,1.89,[],
+84,Lock,Jordan Elizabeth,78236.0,75.86,6.35,2.05,0.48,1.57,[],
+85,Canithrope,Vanessa Robertson,107311.0,60.2,7.79,3.08,1.29,1.79,"['Steampunk', 'Fantasy', 'Paranormal', 'Mystery']",2018.0
+86,Cole Cuts,Michael Maxwell,62704.0,49.17,7.45,2.49,0.87,1.63,[],2020.0
+87,The Battle for Earth,Raymond L. Weir,96548.0,34.61,9.05,3.05,1.12,1.93,[],2020.0
+88,Bound for Gold,Willian Martin,189302.0,59.24,6.03,2.46,0.35,2.12,"['Historical Fiction', 'Fiction', 'Mystery', 'Historical', 'Adult', 'Mystery Thriller', 'Action']",2018.0
+89,Trail of Terror,John West,172417.0,53.32,7.05,3.26,1.45,1.81,[],
+90,I Want to Die but I Want to Eat Tteokbokki,Baek Sehee,35101.0,18.87,10.47,3.81,1.21,2.6,[],
+91,Galileo's New Universe,Stephen P. Maran & Laurence A. Marschall,59444.0,60.45,6.16,2.81,1.21,1.6,[],
+92,Don't Let Go,Michael Bussi,91635.0,57.69,7.45,2.92,1.03,1.89,"['Thriller', 'Crime', 'Mystery', 'France', 'Fiction', 'Suspense', 'French Literature']",2013.0
+93,Spell Tricked,Eliza Grace,54602.0,55.07,8.91,3.32,1.01,2.3,[],
+94,Lisa Ballantyne,Little Liar,83588.0,56.38,8.21,2.52,0.72,1.8,[],
+95,"Conversations With God, Book 3",Neal Donald Walsch,100137.0,15.24,11.44,4.23,1.27,2.95,[],
+96,Don't Look Back,Jay Nadal & Adam Nicholls,26417.0,47.3,7.47,2.56,0.73,1.83,[],2018.0
+97,Girl Watcing You,J. A. Schneider,74583.0,65.86,7.19,3.2,1.19,2.01,[],
+98,The Oxford Brotherhood,Guillermo Martinez,83055.0,29.53,7.64,3.14,1.13,2.01,[],
+99,Not Even for Love,Sandra Brown,46682.0,57.73,7.68,3.74,1.84,1.9,[],
+100,Faith and Fury,Tiger Herbert,53700.0,57.83,6.97,2.93,1.09,1.83,[],
+101,Werewolf Castle,Tracey Falbe,166143.0,54.3,5.59,2.52,1.19,1.33,[],
+102,Tell Me You're Sorry,Kevin O'Brien,137035.0,47.27,8.18,2.64,0.75,1.89,"['Mystery', 'Thriller', 'Suspense', 'Mystery Thriller', 'Fiction', 'Psychological Thriller', 'Crime']",2014.0
+103,Ruins,Brian Aldiss,24185.0,54.12,7.46,2.89,1.08,1.81,[],
+104,The Hardy Boys: Maximum Challenge,Franklin W. Dixon,28794.0,48.88,7.59,2.64,0.87,1.76,[],
+105,Bone White Seeds,Matthew Smith,31048.0,41.89,8.76,3.4,1.59,1.81,[],
+106,Political Gastronomy,Michael A. LaCombe,63053.0,38.48,4.65,2.58,1.24,1.34,[],
+107,The Blue Door,Vincert Starrett,110153.0,38.74,8.8,3.87,1.73,2.13,[],
+108,Dead and Alive,Photis George,55462.0,31.49,9.52,3.48,0.83,2.65,[],
+109,The Return of the King,J. R. R. Tolkien,135159.0,48.34,7.32,3.14,0.58,2.55,[],
+110,The Darkness Knows,Arnaldur Indridason,82429.0,32.67,10.37,2.98,1.13,1.85,"['Mystery', 'Crime', 'Thriller', 'Fiction', 'Nordic Noir', 'Mystery Thriller', 'Scandinavian Literature']",2017.0
+111,A Case of Hate,Rex Darby,25959.0,37.16,9.1,3.06,1.13,1.93,[],
+112,Death and the Harlot,Georgia Clarke,87258.0,45.49,9.2,3.01,1.05,1.96,"['Historical Fiction', 'Mystery', 'Crime', 'Historical', 'Historical Mystery', 'Fiction', 'Audiobook']",2019.0
+113,The Wisdom of Tea,Noriko Morishida,37083.0,70.27,7.28,3.45,1.5,1.94,"['Nonfiction', 'Japan', 'Japanese Literature', 'Tea', 'Philosophy', 'Biography', 'Asia']",2002.0
+114,Carved In Stone,Julie Shupe,109154.0,42.43,10.42,2.92,1.07,1.86,[],2018.0
+115,Star Sailors,James McNaughton,137118.0,63.24,7.31,2.8,1.31,1.49,[],
+116,Dead Man's Hand,George R. R. Martin & John Jos. Miller,118221.0,57.36,7.57,2.89,1.16,1.73,[],
+117,The Games House,Claire North,107360.0,50.98,7.2,2.96,0.73,2.23,[],
+118,Death Comes to Dartmoor,Vivan Conroy,78052.0,46.93,9.41,3.09,0.9,2.18,"['Mystery', 'Historical Fiction', 'Historical Mystery', 'Historical', 'British Literature', 'Cozy Mystery', 'Fiction']",2019.0
+119,No Escape,Nolon King & David Wright,74430.0,40.5,8.35,2.73,0.67,2.07,[],
+120,Empire Games Series,Charles Stross,106636.0,44.6,7.65,3.19,1.37,1.82,[],
+121,The Hardy Boys: Game Plan For Disaster,Franklin W. Dixon,35794.0,31.67,9.14,3.17,1.08,2.09,[],
+122,The New Girl,Ingrid Alexandria,70824.0,56.34,9.39,2.64,0.8,1.84,[],
+123,The Lazy Man's Guide to Marathon Running,Sky Pelletier Waterpeace,87296.0,40.78,7.62,4.43,2.11,2.32,[],
+124,"Reaper, Drone Strike",Nichalas Irving & A. J. Tata,89558.0,50.76,7.57,2.27,0.87,1.4,"['Fiction', 'Thriller', 'War', 'Military Fiction']",2020.0
+125,The Otherside of Midnight,Sidney Sheldon,135704.0,37.09,8.49,2.71,1.16,1.55,[],
+126,Guarded Prognosis,"Richard L. Mabry, M. D.",64500.0,32.4,9.23,2.9,0.86,2.03,[],
+127,I'm Glad My Mom Died,Jennette Mccurdy,86764.0,44.2,8.96,3.49,1.11,2.39,[],2023.0
+128,Sky Lift,Robert A. Heinlein,5319.0,40.63,8.12,2.84,0.98,1.86,[],
+129,The Creative Mindset,Jeff DeGraff & Staney DeGraff,35768.0,28.46,6.22,2.87,1.08,1.79,"['Business', 'Nonfiction']",2020.0
+130,Portral,Kristen Painter & Bruno Miller,68652.0,42.84,9.5,3.25,1.11,2.14,[],
+131,Slow Burn,Rachel Caine,80192.0,76.45,6.19,2.36,0.95,1.41,[],
+132,A Lady of Quality,Frances Hodgson Burnett,84150.0,41.45,7.52,2.66,0.63,2.03,[],
+133,Raising an Emotionally Intelligent Child,John Gottman & Joan Declaire,68991.0,18.41,7.53,3.31,1.27,2.04,"['Parenting', 'Nonfiction', 'Psychology', 'Self Help', 'Childrens', 'Relationships', 'Education']",1997.0
+134,Death by Alphabet,Kristine Frost,71165.0,32.03,10.62,2.59,0.92,1.67,[],
+135,Nancy Drew: The Spider Saphire Mystery,Carolyn Keene,34823.0,45.26,8.04,2.98,1.1,1.88,[],
+136,Umtata,Brian Godfrey,68775.0,31.13,8.27,2.87,1.0,1.87,[],
+137,The Hardy Boys: One False Step,Franklin W. Dixon,30531.0,32.85,9.3,3.28,0.95,2.33,[],
+138,Hear Me,Julie North,77858.0,65.25,7.34,2.63,0.94,1.69,[],2017.0
+139,Dead Astronauts,Jeff Vandermeer,64472.0,68.95,6.69,2.48,0.23,2.24,"['Science Fiction', 'Fiction', 'Fantasy', 'Weird Fiction', 'Dystopia', 'Horror', 'Speculative Fiction']",2019.0
+140,The Rebel and the Thief,Jan-Philipp Sendker,71242.0,49.79,8.56,2.79,0.9,1.89,[],
+141,What She Didnt See,Heather Wynter,29894.0,43.71,8.17,2.19,0.36,1.83,[],
+142,Bobby Hall,This Bright Future,121867.0,33.35,10.12,2.89,0.67,2.22,[],
+143,First Lensman,Edward E. Smith,98399.0,33.8,9.08,4.74,2.1,2.64,[],
+144,Winterborn,Sherrilyn Kenyon,20983.0,41.92,8.51,3.08,1.15,1.93,[],
+145,Raven,Tim Reiterman & John Jacobs,269125.0,37.0,5.96,2.67,1.15,1.52,[],
+146,What Hell Is Not,Alessandro D'Avenia,84447.0,45.82,9.18,2.61,0.59,2.01,"['Fiction', 'Italian Literature', 'Contemporary', 'Italy', 'School', 'Novels', 'Read For School']",2014.0
+147,The Ruin Of Snow,Lacy Shweidan,114487.0,49.53,8.6,2.1,0.44,1.66,[],2021.0
+148,House of Fear and Freedom,Kimberly J. Ward,101775.0,65.29,6.88,3.26,1.44,1.82,['Fantasy'],2019.0
+149,397 Journal Writing Prompts & Ideas,Scott Green,8101.0,30.07,10.69,3.0,0.79,2.21,[],
+150,Cole Mine,Michael Maxwell,70541.0,39.96,8.4,2.8,0.93,1.87,[],2019.0
+151,The Failures of Sherlock Holmes,Annette Siketa,60317.0,33.66,8.39,4.06,1.59,2.48,[],
+152,Just Kill Them,Michael Lesse,78885.0,31.47,9.95,3.35,1.21,2.14,"['Crime', 'Mystery']",2019.0
+153,Spellbound,Kelley Armstrong,91922.0,35.04,9.56,2.91,0.79,2.12,[],
+154,Children of the White Star,Linda Thackery,96768.0,36.83,7.98,2.72,0.97,1.76,[],2019.0
+155,The Blood of Saints,Nick Dorsey,100482.0,47.97,8.14,2.35,0.57,1.78,[],
+156,Mountain Ghost,Christoffer Petersen,63413.0,48.84,6.71,2.17,0.43,1.75,[],
+157,Bay of Killers,Paul Sinclair,82690.0,42.97,7.85,3.04,1.09,1.95,[],
+158,The Third Bear,Jeff Vandermeer,96070.0,54.21,7.56,2.63,0.7,1.92,"['Fantasy', 'Short Stories', 'Fiction', 'Horror', 'Science Fiction', 'New Weird', 'Weird Fiction']",2010.0
+159,The Hardy Boys: Three-Ring Terror,Franklin W. Dixon,30596.0,41.5,7.45,2.61,0.93,1.69,[],
+160,Jack O'Donnell,Lily Poole,85512.0,75.16,5.37,1.62,0.53,1.09,[],
+161,My Lover's Lover,Maggie O'Farrell,80291.0,74.99,7.17,2.77,0.86,1.91,"['Fiction', 'Contemporary', 'Romance', 'Mystery', 'Literary Fiction', 'Suspense', 'Chick Lit']",2002.0
+162,Congo Journey,Redmond O'Hanlon,202914.0,74.84,6.02,2.1,0.65,1.45,"['Travel', 'Africa', 'Nonfiction', 'Adventure', 'Memoir', 'Animals', 'Biography']",1996.0
+163,Northern Light,Christopher Petersen,65083.0,43.27,7.29,1.99,0.54,1.45,['Thriller'],
+164,The Hardy Boys: Cross-country Crime,Franklin W. Dixon,31549.0,44.59,7.54,2.55,0.66,1.89,[],
+165,Time is a Killer,Michael Bussi,133934.0,49.34,7.76,2.51,0.83,1.68,"['Thriller', 'Crime', 'Mystery', 'France', 'Fiction', 'Roman', 'Suspense']",2016.0
+166,Salt Slow,Julie Armfield,47689.0,77.25,5.73,2.35,1.16,1.2,"['Short Stories', 'Fiction', 'Horror', 'Fantasy', 'Magical Realism', 'Queer', 'LGBT']",2019.0
+167,The Hardy Boys: Trouble Times Two,Franklin W. Dixon,29034.0,41.03,7.91,2.94,1.0,1.95,[],
+168,Burn Town,Jennifer McMahon,86163.0,66.05,7.8,2.51,0.65,1.86,[],
+169,Within the Shadows,J. D. MCG,79050.0,33.03,8.21,2.32,0.7,1.62,[],
+170,Aparitions,Noel Scanlon,55559.0,57.44,8.39,2.95,1.34,1.61,[],
+171,The Golden Age and Other Stories,Naomi Novik,42831.0,41.66,7.71,3.92,1.66,2.26,[],
+172,Useless Bay,Mary Jane Beaufrand,42941.0,50.63,9.5,2.84,0.68,2.16,[],
+173,Endurance,Brunoo Miller,42029.0,43.12,8.19,2.82,1.0,1.82,['Dystopia'],2019.0
+174,Such A Pretty Smile,Kristi Demeester,94144.0,52.1,7.97,2.58,0.69,1.89,"['Horror', 'Thriller', 'Fiction', 'Mystery', 'Feminism', 'Adult', 'Mystery Thriller']",2022.0
+175,Fox in the Hen House,James Lawson,21282.0,45.54,8.2,2.48,1.0,1.48,[],
+176,Leave It To Psmith,P. G. Wodehouse,90897.0,36.36,8.47,3.72,1.73,1.99,[],
+177,The Survivors of the Chancellor,Jules Verne,52991.0,45.48,8.04,3.53,1.48,2.05,[],
+178,The Hardy Boys: Trick-or-Trouble,Franklin W. Dixon,30113.0,49.25,6.84,2.32,0.71,1.6,[],
+179,Mr. Nice,John NIcholl,67408.0,37.72,9.52,3.08,1.1,1.98,"['Psychological Thriller', 'Thriller', 'Suspense', 'Mystery', 'Fiction']",2020.0
+180,Regrettable Things That Happenened Yesterday,Jennani Durai,42020.0,32.2,8.09,3.97,1.63,2.34,[],
+181,The Forbidden Place,Suzanne Jansson,66632.0,46.87,8.63,3.36,1.05,2.31,"['Mystery', 'Thriller', 'Crime', 'Fiction', 'Mystery Thriller', 'Contemporary', 'Audiobook']",2018.0
+182,I Am Karma,Davie J. Toothill,103570.0,31.2,10.44,2.64,0.88,1.76,[],
+183,The Voiceless,Faye Kellerman,2534.0,62.4,7.7,2.37,0.67,1.7,[],
+184,Before He Stalks,Blake Piecre,60343.0,30.24,8.92,3.29,1.12,2.17,"['Thriller', 'Fiction', 'Mystery Thriller', 'Crime', 'Mystery']",2019.0
+185,Either Or,Elif Bautuman,106416.0,33.31,9.76,3.68,1.34,2.34,[],2023.0
+186,Every Little Sign,Michelle Pace,81633.0,59.43,7.39,3.13,0.97,2.16,['Thriller'],2023.0
+187,As Needed for Pain,Daniel Peres,67636.0,51.97,8.2,2.38,1.16,1.22,[],
+188,Dreadful,Jana DeLeon,79954.0,29.76,10.07,2.99,0.96,2.03,"['Mystery', 'Thriller', 'Crime', 'Fiction', 'Mystery Thriller', 'Adult', 'Audiobook']",2018.0
+189,Dune: House of Corrino,Brian Herbert & Kevin J. Anderson,177720.0,54.28,6.18,2.6,1.01,1.6,[],
+190,Privateer,Josephine Tey,95964.0,42.28,7.91,2.57,0.72,1.85,[],
+191,Chronicle of a Death Foretold,Gabriel Garcia Marquez,29163.0,45.14,7.07,2.23,0.44,1.79,[],
+192,Fake Plastic Love,Kimberly Tait,126881.0,57.41,6.83,3.1,1.54,1.55,"['Fiction', 'New York', 'Contemporary', 'Chick Lit']",2017.0
+193,Vanishing,Cai Emmons,40181.0,64.74,7.49,2.93,1.09,1.84,[],
+194,Scorpio,Alathia Morgan,30352.0,23.11,11.1,2.97,0.87,2.1,[],
+195,Defiance of the Fall: Book 8,TheFirstDefier,222014.0,46.02,7.68,3.59,1.75,1.84,[],
+196,Game Ten,James Long,96533.0,47.91,7.69,3.01,1.07,1.94,[],
+197,Touch of Shadow,Billinda Sheehan,78167.0,41.7,8.45,2.88,1.2,1.68,"['Urban Fantasy', 'Vampires', 'Fae', 'Witches', 'Magic']",2017.0
+198,Patricia Bradley,Justice Delayed,94857.0,38.21,9.43,2.39,0.58,1.82,[],
+199,The Hardy Boys: Mystery On Makatunk Island,Franklin W. Dixon,32170.0,50.5,7.59,2.84,1.03,1.82,[],
+200,Crime of Spelled Ink,Haley Gordon,46711.0,35.92,9.45,3.35,1.2,2.16,[],2019.0
+201,Blaze Me a Sun,Christopher Carlsson,111446.0,38.88,9.61,3.22,0.93,2.29,[],2023.0
+202,Queen of Myth and Monsters,Scarlett St. Claire,93385.0,44.03,7.99,2.45,0.59,1.86,[],2023.0
+203,The Golden Age,Gore Vidal,160357.0,34.9,8.62,4.21,1.44,2.78,[],
+204,Under the Ice,Rachel Blok,81872.0,59.78,9.22,2.71,0.81,1.89,"['Thriller', 'Mystery', 'Fiction', 'Mystery Thriller', 'Christmas', 'Crime', 'Suspense']",2018.0
+205,Needle Ash,David V. Stweart,36588.0,45.82,7.85,2.92,1.05,1.87,[],
+206,Now in November,Josephine W. Johnson,48473.0,54.16,7.58,2.67,0.43,2.24,[],
+207,Tipping Point: Opening Shots,John O'Brien,84870.0,46.58,7.0,2.75,1.09,1.66,[],2021.0
+208,Dean H. Bergevin,Luna City The Moon,100607.0,30.11,8.64,3.23,1.19,2.04,[],
+209,The Hardy Boys: The Baseball Card Conspirac,Franklin W. Dixon,31546.0,44.22,6.77,2.49,1.04,1.46,[],
+210,Grey Flesh Flies,Matthew Smith,32160.0,46.98,7.29,3.22,1.42,1.8,[],
+211,Party Games,R. L. Stine,52184.0,64.53,7.16,2.33,0.88,1.45,"['Horror', 'Young Adult', 'Mystery', 'Thriller', 'Fiction', 'Audiobook', 'Mystery Thriller']",2014.0
+212,The Hardy Boys: Ghost of a Chance,Franklin W. Dixon,30360.0,53.69,7.46,2.66,0.91,1.76,[],
+213,Suzanne Johnson,Belle Chasse,93409.0,46.82,8.49,2.81,0.86,1.95,[],
+214,The Last Crown,Elzbieta Cherezinska,194609.0,42.96,8.2,2.42,0.9,1.52,"['Historical Fiction', 'Polish Literature', 'Fiction', 'Fantasy', 'Historical', 'Medieval', 'Novels']",2016.0
+215,Intentional Mindset,Dave Anderson,54341.0,21.46,7.46,3.3,1.32,1.98,[],
+216,Extinction,S. D. Perry,77545.0,41.55,8.25,3.01,1.02,1.99,[],2016.0
+217,The Hardy Boys: Sky Sabotage,Franklin W. Dixon,31844.0,48.68,7.87,3.09,0.95,2.14,[],
+218,Better Sex in No Time,Josie Vogels,70094.0,61.04,6.4,3.08,1.32,1.76,[],2015.0
+219,The Toy Makers,Robert Dinsdale,129500.0,55.3,8.47,2.79,0.56,2.22,[],
+220,Behind Every Lie,Christian McDonald,86541.0,65.41,7.55,2.95,1.07,1.88,"['Thriller', 'Mystery', 'Fiction', 'Mystery Thriller', 'Suspense', 'Audiobook', 'Adult']",2020.0
+221,The Immortality Curse,Grieg Beck,103179.0,57.21,6.52,3.11,1.1,2.01,"['Adventure', 'Thriller', 'Fiction', 'Science Fiction', 'Horror', 'Action', 'Fantasy']",2017.0
+222,Moth,James Sallis,56267.0,52.27,7.19,3.37,1.1,2.27,[],
+223,Wired Ghost,Tody Neal,65780.0,59.22,7.39,2.65,0.97,1.68,['Mystery'],2020.0
+224,The Unborn,Brian Herbert,88889.0,43.91,8.31,2.77,0.9,1.87,[],
+225,The Church of Sleep,Zachary Rawlins,286387.0,43.64,8.72,3.32,1.43,1.88,[],
+226,The Negotiator,Brendan Dubois,72993.0,48.89,7.34,2.81,0.79,2.02,"['Thriller', 'Mystery', 'Mystery Thriller', 'Suspense']",2018.0
+227,"Stay Mad, Sweetheart",Helen Kist,85770.0,44.23,8.83,2.43,0.91,1.52,"['Fiction', 'Thriller', 'Contemporary']",2019.0
+228,Ciel Pierlot,Bluebird,129770.0,59.78,8.44,3.24,1.33,1.91,[],
+229,Grief Connects Us,Joseph Stern,84654.0,32.87,7.91,3.31,1.24,2.07,[],
+230,In My Mother's Name,Laura Elliot,101922.0,43.34,9.0,2.62,0.81,1.81,[],
+231,Earth's Last Citadel,C. L. Moore & Henry Kuttner,37535.0,63.36,6.62,3.57,1.51,2.06,[],
+232,The Ranger Way,Kris 'Tanto' Paronto,60894.0,24.98,9.63,2.48,0.84,1.64,[],
+233,Tracker 220,Jamie Krakover,87605.0,46.12,7.73,2.56,0.75,1.81,[],
+234,General in His Labyrinth,Gabriel Garcia Marquez,74832.0,43.47,6.09,1.66,0.06,1.6,[],
+235,Vintage Contemporaries,Don Kois,97353.0,44.4,8.31,3.23,1.12,2.1,[],2024.0
+236,A Brothers Tragedy,Jenna Morrison,87502.0,70.45,4.7,2.35,0.47,1.88,[],
+237,The Hardy Boys: Hide-and-sneak,Franklin W. Dixon,24491.0,54.9,7.0,2.61,0.86,1.76,[],
+238,The Fatal Mistake,V. K. Ananth,7517.0,40.5,7.16,1.56,0.49,1.06,[],
+239,Murder in March,Camilla Chafer,70482.0,35.17,9.25,3.64,1.27,2.36,[],
+240,Arctic Gold,John Man,63700.0,47.96,7.71,2.89,0.99,1.9,[],
+241,Strangers,Dean Koontz,256654.0,52.33,7.43,3.05,1.32,1.74,"['Horror', 'Fiction', 'Thriller', 'Suspense', 'Mystery', 'Science Fiction', 'Fantasy']",1986.0
+242,The Melody,Jim Grace,68368.0,60.91,8.54,3.35,1.03,2.31,[],
+243,Visus Versus,D. O. Thomas,56202.0,62.07,6.86,2.37,1.05,1.33,[],
+244,The Spaces in Between,Count Collin van Reenan,53702.0,49.58,7.23,4.0,1.72,2.28,[],
+245,Wings,Danielle Steel,138822.0,25.12,10.38,4.11,1.4,2.71,[],
+246,Fishnet,Kristen Innes,79048.0,43.13,8.93,3.14,1.22,1.91,[],
+247,Jackie is Gone,Kevin Teo,29953.0,34.34,8.29,2.44,0.63,1.81,[],2019.0
+248,Book of Enchantresses,Mary Ting,62338.0,42.52,9.5,2.64,0.49,2.15,[],
+249,The Subtle Art of Not Giving a Fuck,Mark Manson,53817.0,23.94,8.06,3.5,1.41,2.09,[],
+250,Double Demon Discount,Sean West,102373.0,31.97,9.69,3.08,1.09,1.99,[],
+251,A Face in the Crowd,Stephen King & Stewart O'Nan,11456.0,50.78,8.5,2.9,1.07,1.82,"['Horror', 'Short Stories', 'Fiction', 'Audiobook', 'Fantasy', 'Supernatural', 'Thriller']",2012.0
+252,The Kirkfallen Stopwatch,J. A. Henderson,70198.0,52.54,7.91,2.78,1.08,1.7,[],2019.0
+253,The Women in Black,Madeline St. John,48170.0,39.84,9.87,4.53,1.34,3.18,"['Fiction', 'Historical Fiction', 'Australia', 'Historical', 'Chick Lit', 'Classics', 'Audiobook']",1993.0
+254,Red Mosquito,Matthew Smith,34807.0,58.18,7.52,2.92,1.23,1.69,[],
+255,Murder at the Happy Home for the Aged,Bulbul Sharma,75617.0,61.63,7.8,3.42,1.06,2.36,[],
+256,Summer Lightning,P. G. Wodehouse,81424.0,36.78,8.84,3.6,1.51,2.09,[],
+257,Kif,Josephine Tey,89409.0,41.68,8.29,3.23,1.47,1.76,[],
+258,Firewatch,Scott Blade,62960.0,50.83,7.57,2.1,0.57,1.53,[],
+259,Working It,Christine d'Abo,64473.0,35.32,9.88,2.89,1.03,1.87,"['M M Romance', 'Romance', 'Contemporary', 'Contemporary Romance', 'LGBT', 'Fiction', 'Gay']",2017.0
+260,Dove Keeper,Emily Deibler,81637.0,53.5,8.64,2.4,0.55,1.85,[],
+261,A Tapestry of Treason,Anne O'Brien,137753.0,33.64,9.62,2.76,0.81,1.95,"['Historical Fiction', 'Historical', 'Fiction', 'Medieval', 'British Literature', 'Plantagenet', 'Audiobook']",2019.0
+262,The Deck of Omens,Christine Lynn Herman,96694.0,52.69,9.53,3.46,1.35,2.11,[],
+263,Equalize,Ryan Debruyn,151198.0,56.12,7.11,3.25,1.63,1.62,"['Fantasy', 'Science Fiction', 'Post Apocalyptic', 'Audiobook', 'Role Playing Games', 'Fiction', 'Magic']",2019.0
+264,Glynn Stewart,Ashen Stars,16115.0,37.15,9.0,3.08,1.66,1.42,[],
+265,False Colors,Marc Jablow,72588.0,42.35,8.78,3.07,1.17,1.9,[],2019.0
+266,Genesis,S. D. Perry,59334.0,44.82,7.73,3.09,1.17,1.92,[],
+267,Society,Michael Palmer,123030.0,40.39,8.37,3.47,1.42,2.05,[],
+268,I'll Never Tell,Catherine McKinzie,83978.0,40.72,10.34,2.87,0.64,2.23,"['Mystery', 'Thriller', 'Mystery Thriller', 'Fiction', 'Suspense', 'Adult', 'Crime']",2019.0
+269,Menace for Dr. Morelle,Earnest Dudley,70462.0,39.81,7.99,4.29,2.22,2.07,[],1947.0
+270,River of Gods,Ian Macdonald,181111.0,69.63,6.44,2.09,0.63,1.46,"['Science Fiction', 'Fiction', 'Cyberpunk', 'India', 'Speculative Fiction', 'Fantasy', 'Dystopia']",2004.0
+271,Out of Body,Jeffery Ford,32733.0,56.95,7.1,2.53,0.98,1.55,"['Horror', 'Fantasy', 'Thriller', 'Fiction', 'Novella', 'Adult', 'Mystery']",2020.0
+272,Nights of the Creaking Bed,Toni Kan,45724.0,48.49,7.3,2.23,0.39,1.84,[],
+273,A Second Chance,V. Mahanenho,115657.0,38.38,7.74,2.95,1.24,1.71,[],
+274,Death Be Rising,Katie Epstein,75976.0,42.88,6.98,2.1,0.32,1.78,[],
+275,Corey Island,Ryan J. Pelton,23939.0,46.89,7.01,1.69,0.39,1.3,[],
+276,The Woman Who Vanished,U. D. Yasha,74480.0,34.26,9.34,2.64,0.64,2.0,[],
+277,The Revelation,A. D. Soares,15230.0,37.6,8.44,3.64,1.58,2.07,[],
+278,A Tangled Tale,Dermod Judge,65770.0,38.72,8.28,3.31,1.11,2.2,[],
+279,Mirrorstrike,Benjamin Sriduangkaew,46468.0,68.66,7.92,2.71,0.91,1.79,"['Fantasy', 'LGBT', 'Lesbian', 'Science Fiction', 'Fiction', 'Queer', 'Adult']",2019.0
+280,A Sad Mistake,R. L. Stine,4967.0,71.75,5.46,2.19,1.05,1.15,[],
+281,The Aquaintaine Progession,Robert Ludlum,238804.0,32.52,8.04,2.92,1.29,1.63,[],
+282,Inge Lohnig,Dead Calm,106928.0,52.98,8.66,3.14,1.07,2.07,[],
+283,From Darkness to Dynasty,Jerry Thorton,129199.0,31.21,7.0,2.49,0.99,1.49,[],2016.0
+284,Eve: A Novel of the First Woman,Elissa Elliott,133352.0,62.42,7.62,2.73,0.78,1.94,[],
+285,Submission,Michel Houellebecq,59112.0,33.88,8.63,3.77,1.6,2.17,[],
+286,Dream Fall,Amy Plum,64772.0,63.39,6.73,2.72,1.02,1.7,[],
+287,Jed Had To Die,Tara Silvec,79339.0,51.56,6.93,3.06,1.15,1.91,"['Romance', 'Humor', 'Contemporary', 'Mystery', 'Contemporary Romance', 'Audiobook', 'Chick Lit']",2016.0
+288,What Doesn't Kill You,Jo Oh,22449.0,40.74,8.72,3.51,1.45,2.06,"['Paranormal', 'Fantasy', 'Witches']",2013.0
+289,No Hope,Nolon King & David Wright,70055.0,38.4,8.15,2.82,0.7,2.13,[],
+290,"Captain Marvel, Liberation Run",Tess Sarpe,82504.0,52.49,7.26,2.58,0.73,1.85,"['Marvel', 'Comics', 'Science Fiction', 'Fantasy', 'Young Adult', 'Fiction', 'Superheroes']",2019.0
+291,Curse the Day,Jude O'Reilly,102634.0,51.46,7.86,1.89,0.48,1.41,[],
+292,The Paper Bracelet,Rachel English,115094.0,33.44,12.09,2.7,0.69,2.0,"['Historical Fiction', 'Fiction', 'Historical', 'Contemporary', 'Drama', 'Amazon', 'Ireland']",2020.0
+293,Witches and Weed,Anna McCluskey,35088.0,47.84,7.59,3.47,1.45,2.02,[],
+294,The Choice,Andrew MacKay,48613.0,50.49,5.47,1.89,0.59,1.3,[],2021.0
+295,Cruel as the Grave,Cynthia Harros-Eagles,91045.0,39.18,10.3,3.44,1.21,2.23,"['Mystery', 'Fiction', 'Crime', 'British Literature']",2021.0
+296,The Hardy Boys: Racing To Disaster,Franklin W. Dixon,31405.0,44.58,7.38,2.67,0.92,1.74,[],
+297,Agent of Truth,Grant Percy,82284.0,45.59,7.49,2.46,0.87,1.59,[],2021.0
+298,Uncle Fred In the Springtime,P. G. Wodehouse,72467.0,33.13,9.57,3.07,1.19,1.88,[],
+299,Fade To Black,Nolon King & David Wright,74416.0,28.09,9.62,3.84,1.21,2.63,[],2020.0
+300,Ombria in Shadow,Patricia A. Mckillip,74818.0,71.01,6.36,3.42,1.63,1.79,"['Fantasy', 'Fiction', 'High Fantasy', 'Young Adult', 'Science Fiction Fantasy', 'Magic', 'Adult']",2002.0
+301,Hour of Reckoning,Demetrius Jackson,89857.0,39.83,7.15,2.58,1.03,1.55,[],
+302,Invasion,Dean Koontz,38811.0,62.37,7.8,3.19,1.29,1.9,[],
+303,Joseph Smith,Richard Lyman Bushman,256934.0,24.81,5.5,1.86,0.75,1.11,[],
+304,The Hardy Boys: A Game Called Chaos,Franklin W. Dixon,28355.0,43.51,7.91,2.55,0.82,1.72,[],
+305,Fortune,Iam Hamilton,75677.0,26.97,10.72,2.58,0.77,1.8,"['Mystery', 'Thriller', 'Fiction', 'Canada', 'China', 'Crime']",2021.0
+306,The Revolutionaries,John Harris writing as Max Hennessy,62963.0,52.38,7.96,2.81,0.93,1.88,[],
+307,Piccadily Jim,P. G. Wodehouse,80425.0,30.61,8.89,3.35,1.45,1.9,"['Fiction', 'Humor', 'Classics', 'Comedy', 'British Literature', '20th Century', 'Romance']",1917.0
+308,East of the Jordan,Michael Maxwell,52691.0,60.55,6.78,2.35,0.9,1.46,[],2021.0
+309,As Iron Fails,Bryce O'Connor,192922.0,53.42,6.42,2.96,1.26,1.7,[],
+310,"The Appalachian Trail, A Biography",Philip D'Anieri,63947.0,36.14,5.03,2.55,1.29,1.26,"['Nonfiction', 'History', 'Travel', 'Nature', 'Biography', 'Environment', 'Audiobook']",2021.0
+311,The Spy's Door,Maide Reeve,38196.0,58.51,8.52,3.11,0.92,2.18,[],2018.0
+312,Fourth to Run,Caryn Jones,69723.0,58.71,7.46,3.69,1.96,1.72,[],2015.0
+313,The Accidental Warrior,S. J. Mantle,65165.0,38.29,9.35,3.52,1.34,2.19,[],
+314,Good Friends,Leanne Moriarty,60361.0,73.86,5.92,2.06,0.63,1.43,[],
+315,Tomorrow and Tomorrow,Thomas Sweterlitsch,100543.0,70.59,6.58,1.91,0.5,1.4,[],
+316,The Island of Doctor Moreau,H. G. Wells,43183.0,60.74,5.6,3.47,1.38,2.09,"['Classics', 'Science Fiction', 'Fiction', 'Horror', 'Fantasy', 'Literature', '19th Century']",1896.0
+317,Agent Hill: Provacateur,James Hunt,31865.0,61.18,5.01,2.12,0.75,1.37,[],
+318,The Worlds of J. D. L. Rosell,J. D. L. Rosell,43709.0,48.96,7.41,3.26,1.14,2.12,[],
+319,The Hardy Boys: Mystery of Smugglers Cove,Franklin W. Dixon,31609.0,57.01,6.65,3.04,1.03,2.01,[],
+320,The Moment of Tenderness,Madeleine L'Engle,78867.0,48.81,8.6,3.71,1.37,2.33,"['Short Stories', 'Fiction', 'Fantasy', 'Anthologies', 'Historical Fiction', 'Audiobook', 'Literary Fiction']",2020.0
+321,Prime Directive,Davis Burns,61176.0,46.8,7.07,3.21,1.24,1.97,"['Science Fiction', 'Mystery']",2021.0
+322,Dawnrise,Christopher Husberg,136341.0,40.63,7.96,3.46,1.29,2.17,[],
+323,Shriek: An Afterword,Jeff Vandermeer,136104.0,52.02,6.99,3.09,1.0,2.09,"['Fantasy', 'Fiction', 'Science Fiction', 'Horror', 'New Weird', 'Weird Fiction', 'Science Fiction Fantasy']",2006.0
+324,Unseen,Jana DeLeon,79604.0,34.74,9.86,2.9,0.96,1.94,"['Mystery', 'Thriller', 'Fiction', 'Crime', 'Mystery Thriller', 'Murder Mystery', 'Suspense']",2017.0
+325,The Fisherman's Tomb,John O'Neill,34213.0,35.45,4.68,3.05,1.51,1.54,"['History', 'Nonfiction', 'Catholic', 'Religion', 'Christian', 'Christianity', 'Historical']",2018.0
+326,Invasion Uprising,D. C. Allen,78502.0,62.33,6.47,2.32,0.67,1.65,[],2022.0
+327,Nancy Drew: The Ring Master's Secret,Carolyn Keene,44247.0,34.98,8.64,3.41,1.37,2.04,[],
+328,Troubled Space,A. K. Duboff,26145.0,44.85,7.5,2.93,1.0,1.93,[],2019.0
+329,A Game Of Shadows,Jessica King & T. J. Ryan,69733.0,49.79,7.89,2.97,1.26,1.71,[],2020.0
+330,The Hardy Boys: Carnival of Crime,Franklin W. Dixon,33003.0,43.95,7.69,2.78,1.04,1.74,[],
+331,The Queens Assassin,Milissa de la Cruz,96454.0,55.06,8.1,3.16,0.99,2.17,"['Fantasy', 'Young Adult', 'Romance', 'Young Adult Fantasy', 'Fiction', 'Magic', 'Fantasy Romance']",2021.0
+332,The Good Girl's Guide to Great Sex,Shelia Wray Gregoire,78783.0,29.85,9.86,4.34,1.51,2.83,[],2012.0
+333,The Art of Non-Fiction,Ayn Rand,66446.0,16.01,9.11,3.74,1.55,2.19,[],
+334,The Blackshade Machine,William D. Latoria,200012.0,31.99,8.53,3.45,1.47,1.98,[],
+335,The Arctic Event,Robert Ludlum,125864.0,55.84,6.23,2.69,1.19,1.5,[],
+336,The Executioner: Cold Fury,Don Pendleton,52697.0,50.75,6.96,2.67,0.84,1.83,[],
+337,Automathew's Friend,Stanislaw Lem,6639.0,40.84,7.82,5.11,1.9,3.21,[],
+338,Origins,Ricky Black,72928.0,41.65,9.1,2.68,0.85,1.83,[],
+339,The Girl on Camera,Morgan Dun-Campbell,79892.0,54.19,7.97,3.6,1.41,2.19,[],
+340,Wakers,Ron Collins,51998.0,45.61,8.02,2.91,0.9,2.01,[],
+341,Living to Tell the Tale,Gabriel Garcia Marquez,188234.0,35.06,6.2,1.63,0.03,1.59,[],
+342,Remnants of the Order,Hamish Spiers,84595.0,36.43,8.7,3.61,0.63,2.98,[],
+343,The Hand That First Held Mine,Maggie O'Farrell,104984.0,65.91,7.39,2.68,0.74,1.94,[],
+344,Duplicity's Child,Fj Harmon,88354.0,42.56,8.74,2.71,0.63,2.08,[],
+345,Omand's Creek,Don MacDonald,77290.0,51.73,7.79,1.92,0.47,1.45,[],
+346,The Right to Remain Silent,Charles Brandt,81390.0,44.35,7.82,2.42,0.84,1.58,[],
+347,Changeling,Philippa Gregory,73159.0,49.27,8.04,2.86,1.08,1.78,[],
+348,Mad,Renee Miller,68223.0,42.91,9.67,3.16,0.81,2.35,[],
+349,The King of Space Must Die,Barry J. Hutchinson,89804.0,44.66,7.64,3.61,1.46,2.16,[],2022.0
+350,Murder At the Flea Club,Matthew Head,60193.0,28.68,9.6,4.06,1.36,2.7,[],
+351,The Lies You Told,Emerald O'Brien,66277.0,34.81,8.73,2.39,0.46,1.93,[],2019.0
+352,The Eagle and the Viper,Loren D. Estleman,80273.0,55.18,7.24,2.14,0.78,1.35,[],
+353,Closer,Roderick Gordon & Brian Williams,132491.0,51.41,7.65,3.33,1.17,2.16,"['Fantasy', 'Young Adult', 'Science Fiction', 'Adventure', 'Fiction', 'Childrens', 'Mystery']",2010.0
+354,Blood and Tempest,Jon Skovron,118088.0,47.12,8.12,4.26,1.84,2.42,[],
+355,"Ann Devine, Ready for Her Close Up",Colm O'Regan,93768.0,33.0,11.07,2.95,0.55,2.4,['Fiction'],2019.0
+356,First Lady in Charge,Tom Bierdz,109605.0,37.63,8.44,2.84,1.12,1.73,[],
+357,Vampire Seeker,Tim O'Rourke,62055.0,62.97,7.25,2.65,0.73,1.92,"['Vampires', 'Paranormal', 'Paranormal Romance', 'Romance', 'Fantasy', 'Horror', 'Time Travel']",2012.0
+358,The Heart of the Machine,J. Scott Matthews,36468.0,39.33,8.21,3.46,0.96,2.5,[],
+359,Nancy Drew: The Mystery At the Sky Jump,Carolyn Keene,33567.0,47.18,7.78,3.05,1.18,1.87,[],
+360,The Hardy Boys: Cave-in,Franklin W. Dixon,31402.0,41.9,7.81,2.97,0.96,2.01,[],
+361,Covenant of SpiesLies,Daniel Kemp,111209.0,24.51,8.29,2.56,0.85,1.71,[],
+362,The Cold Way Home,Julie Keller,97579.0,43.36,8.73,2.89,0.78,2.11,"['Mystery', 'Fiction', 'Thriller', 'Suspense', 'Mystery Thriller', 'Crime']",2019.0
+363,Crime,Irvine Welsh,116125.0,61.38,6.77,2.83,1.08,1.74,[],
+364,Death of a Doll,Hilda Lawrence,90654.0,41.01,9.69,2.77,0.86,1.91,[],
+365,Civil Blood,Chris Helper,126073.0,44.88,8.87,2.52,0.8,1.72,"['Science Fiction', 'Vampires']",2018.0
+366,Claudine Bourbonnais,Metis Beach,130572.0,44.49,7.52,2.7,0.91,1.79,[],
+367,The People's House,David Papper,99305.0,31.65,6.51,3.32,1.31,2.01,[],
+368,Host of the Unforgiven,G. D. Sheehan,75328.0,53.92,6.35,2.69,0.9,1.79,[],2019.0
+369,Divided 2120,Grian Savage,79033.0,51.43,6.25,2.83,1.42,1.4,[],2019.0
+370,The Hardy Boys: The Sky Blue Frame,Franklin W. Dixon,26925.0,41.53,8.27,3.06,1.27,1.79,[],
+371,Only One Cure,Jennifer Ruff,68042.0,41.31,8.55,2.49,0.73,1.76,"['Thriller', 'Mystery', 'Mystery Thriller', 'Fiction', 'Suspense', 'Medical']",2020.0
+372,The Hardy Boys: Lost In Gator Swamp,Franklin W. Dixon,29191.0,65.28,6.86,2.26,0.85,1.41,[],
+373,Thrice the Brinded Cat Hath Mewed,Alan Bradley,74719.0,50.07,8.77,3.1,1.29,1.81,[],
+374,Murder Stone,Louise Penny,103525.0,53.82,8.09,3.23,1.04,2.19,[],
+375,Anthropocene Rag,Alex Irvine,47417.0,49.84,8.3,2.49,0.48,2.01,"['Science Fiction', 'Fiction', 'Dystopia', 'Fantasy', 'Science Fiction Fantasy', 'Novella', 'Speculative Fiction']",2020.0
+376,The Retreat,Anne Morgellyn,50139.0,46.33,10.14,1.94,0.49,1.45,[],
+377,The Hardy Boys: Terminal Shock,Franklin W. Dixon,31047.0,36.81,8.34,2.82,0.92,1.89,[],
+378,The Touch,Bill O. A.,74224.0,22.25,9.77,2.7,0.81,1.89,"['Picture Books', 'Childrens', 'Storytime', 'Fiction', 'Monsters', 'Humor', 'Books About Books']",2016.0
+379,Jay Kristoff,Empire of the Vampire,240629.0,68.15,5.92,2.05,0.46,1.59,[],
+380,Blooding,Joseph Wambaugh,83773.0,40.25,8.22,2.59,0.97,1.62,[],
+381,Star Trek: The Captain's Oath,Christoper L. Bennett,103483.0,32.48,7.82,3.01,1.16,1.85,"['Star Trek', 'Science Fiction', 'Fiction', 'Audiobook', 'Space Opera', 'Star Trek Original Series', 'Novels']",2019.0
+382,Iza's Ballad,Magda Szabo,96208.0,45.96,8.83,3.44,1.14,2.31,"['Fiction', 'Hungary', 'Hungarian Literature', 'Classics', 'Literary Fiction', 'Literature', 'Novels']",1963.0
+383,Hammer of Darkness,James P. Hogan,165572.0,69.53,6.59,2.57,0.9,1.68,[],
+384,A Dark and Broken Heart,R. J. Ellory,125098.0,28.14,9.42,2.8,0.62,2.18,[],
+385,Emperor of the Earth,Czeslaw Milosz,87103.0,21.72,6.22,2.94,1.13,1.81,"['Poetry', 'Poland', 'Criticism', 'Essays']",1977.0
+386,The Hardy Boys: Eye On Crime,Franklin W. Dixon,29547.0,39.51,6.49,2.74,0.74,2.0,[],
+387,True Blue,Jane Smiley,73746.0,50.61,8.61,3.21,0.56,2.65,[],
+388,The Strangely Beautiful Tale of Persephone Parker,Leanna Renee Hieber,90673.0,54.71,6.91,3.19,1.31,1.88,[],
+389,Crown of Thorns,Melle Amade,25085.0,44.64,9.07,2.97,1.19,1.77,[],
+390,Now and Then,Mary O'Sullivan,117130.0,40.44,9.09,3.23,0.81,2.42,[],2020.0
+391,The Girl On the Page,John Purceli,105174.0,33.51,10.61,3.1,0.94,2.16,"['Fiction', 'Contemporary', 'Books About Books', 'Literary Fiction', 'Australia', 'Novels', 'Chick Lit']",2018.0
+392,Ramona's World,Beverly Cleary,26015.0,55.85,7.56,2.6,0.83,1.78,[],
+393,Heart of the Hustle,A'Zayler,89149.0,41.58,9.07,3.1,1.0,2.1,[],2019.0
+394,Buried,Jeffrey Deaver,18116.0,53.19,7.72,2.62,0.96,1.66,"['Short Stories', 'Fiction', 'Mystery', 'Thriller', 'Mystery Thriller', 'Crime', 'Audiobook']",2020.0
+395,The Gilded Cage,Camilla Lackberg,93454.0,48.54,8.79,3.07,1.14,1.93,"['Thriller', 'Fiction', 'Mystery', 'Crime', 'Mystery Thriller', 'Audiobook', 'Suspense']",2019.0
+396,Tark's Ticks,Chris Gate,89897.0,59.35,6.11,2.37,1.05,1.32,[],2021.0
+397,For Honor,Tom Clancy's,77696.0,36.56,8.47,2.91,1.23,1.68,[],
+398,The Hardy Boys: Trouble In Warp Space,Franklin W. Dixon,31468.0,45.7,7.56,2.49,0.87,1.61,[],
+399,Mary Kay Andrews,The Santa Suit,44767.0,72.83,7.59,2.71,1.1,1.61,[],
+400,Falls,Ian Rankin,146807.0,41.74,9.18,2.74,0.67,2.07,[],
+401,Intercept,Andi J. Feron,95447.0,42.56,8.47,2.61,0.91,1.7,[],
+402,The Compass of His Bones,Jeff Vandermeer,26475.0,78.9,4.93,2.46,0.72,1.74,"['Short Stories', 'Fantasy', 'Fiction', 'Unfinished']",2011.0
+403,The Hardy Boys: Warehouse Rumble,Franklin W. Dixon,30264.0,48.37,6.74,2.46,0.85,1.61,[],
+404,On Mission,Aleen Erin,135391.0,31.03,10.5,3.23,1.03,2.2,"['Romance', 'Science Fiction', 'Aliens', 'Young Adult', 'Fiction', 'Fantasy', 'Supernatural']",2021.0
+405,Full Fathom 5000,Graham Bell,110918.0,67.12,6.45,3.55,1.43,2.12,[],
+406,In the Heat of the Light,Stephen Kearse,57993.0,56.39,7.75,3.27,1.64,1.63,[],
+407,False Skies,Nathan A. Thompson,201041.0,36.19,7.97,4.24,1.77,2.48,['Fantasy'],2020.0
+408,The Last Battle,C. S. Lewis,43659.0,49.2,8.56,3.83,0.81,3.01,[],
+409,The City of Woven Streets,Emmi Itaranta,91239.0,74.26,6.23,2.24,0.68,1.56,"['Fantasy', 'Fiction', 'Finnish Literature', 'Dystopia', 'LGBT', 'Science Fiction', 'Queer']",2015.0
+410,What's Wrong with Us?,Steve Kettmann,78833.0,22.46,8.02,2.64,0.83,1.81,[],
+411,The Buraq Project,M. J. Javani,74322.0,31.11,7.56,2.57,0.99,1.58,[],
+412,The Hardy Boys: Radical Moves,Franklin W. Dixon,31823.0,47.41,6.8,2.78,1.11,1.67,[],
+413,The Grizzly in the Driveway,Robert Chaney,82186.0,62.42,4.54,2.29,0.93,1.36,[],
+414,"Vegetable Wars, Invasion",Lawrence M. Schoen & Jonathan P. Brazee,32581.0,55.27,8.23,2.56,0.78,1.78,[],
+415,Cure,Robin Cook,121345.0,32.28,9.15,3.46,1.58,1.88,[],
+416,Brilliant,Roddy Doyle,30767.0,50.99,9.83,2.8,0.71,2.09,[],
+417,The Hardy Boys: Dungeon of Doom,Franklin W. Dixon,32301.0,42.71,8.63,3.13,1.11,2.03,[],
+418,The Hardy Boys: Tricky Business,Franklin W. Dixon,30671.0,33.67,8.39,3.2,1.01,2.19,[],
+419,The Hardy Boys: Program For Destruction,Franklin W. Dixon,27889.0,37.19,8.39,3.22,1.24,1.98,[],
+420,Other People,Martin Amis,65650.0,46.18,8.53,3.85,1.46,2.39,[],
+421,Truth and Actuality,J. Krishnamurti,45763.0,14.22,11.75,4.06,1.34,2.73,[],
+422,Blood Runner,Shaine Smith,112212.0,42.75,8.13,2.46,0.69,1.77,[],
+423,News of a Kidnapping,Gabriel Garcia Marquez,97213.0,30.29,7.23,1.75,0.17,1.57,[],
+424,Blue Moon,Jessica Saren,24065.0,50.2,6.61,3.44,1.73,1.72,['Reverse Harem'],2018.0
+425,The Voyeur,Kimberly Shead,82733.0,57.7,6.26,2.01,0.53,1.48,[],
+426,Dead Links,Joshua Ingle,83376.0,44.31,7.94,3.2,0.94,2.26,[],
+427,Under Construction,Bradd Chambers,81467.0,46.93,7.93,3.19,1.12,2.07,[],
+428,Lifestyles of Gods and Monsters,Emily Robertson,80092.0,49.12,9.22,2.55,0.7,1.85,"['Fantasy', 'Mythology', 'Young Adult', 'Retellings', 'Romance', 'Young Adult Fantasy', 'Greek Mythology']",2019.0
+429,No Good Deed,James Sawin,86222.0,39.45,9.17,1.91,0.45,1.46,[],2013.0
+430,Fools Knaves And Heroes,Jeffrey Archer,27156.0,40.44,7.32,2.75,1.14,1.61,[],
+431,First to Die,Alex Caan,85424.0,32.02,10.43,3.25,1.1,2.16,[],
+432,Sue Welfare,Losing Leah,76885.0,44.07,9.18,3.15,1.02,2.13,[],
+433,The Hardy Boys: Mystery With a Dangerous Be,Franklin W. Dixon,30711.0,49.56,6.72,2.6,1.08,1.52,[],
+434,Enter the Aardvark,Jessica Antony,46749.0,60.61,6.78,3.26,1.36,1.9,"['Fiction', 'LGBT', 'Humor', 'Contemporary', 'Queer', 'Politics', 'Historical Fiction']",2020.0
+435,Damnation,Pater Beck,129979.0,61.99,7.24,2.67,1.17,1.5,"['Fiction', 'Thriller', 'Mystery']",2013.0
+436,Goosebumps: The Ghost Next Door,R. L. Stine,19977.0,71.25,6.21,3.09,1.41,1.69,[],
+437,A Guide for the Perplexed,Jonathan Levi,93335.0,60.31,4.99,1.93,0.71,1.23,[],
+438,Intercept,Patrick Robinson,134982.0,41.21,6.89,2.96,1.19,1.77,[],2019.0
+439,Stolen Magic,Char Webster,82935.0,40.03,8.98,2.82,0.96,1.87,[],
+440,Logic of Empire,Robert A. Heinlein,17886.0,38.38,7.86,2.93,1.27,1.65,[],
+441,Rakehelld,David Harold,73844.0,47.96,8.28,3.44,1.24,2.21,[],
+442,Cold War,Carole E. Fink,83363.0,22.42,2.84,2.46,1.09,1.37,[],
+443,The Girl in the Woods,Camilla Lackberg,214518.0,39.36,9.49,3.36,1.03,2.33,"['Crime', 'Mystery', 'Thriller', 'Fiction', 'Scandinavian Literature', 'Sweden', 'Mystery Thriller']",2017.0
+444,Icepick,Phillip Depoy,64133.0,44.51,8.45,2.77,0.88,1.89,[],2019.0
+445,Capricorn,Alathia Morgan,27873.0,25.15,10.84,2.79,0.81,1.98,[],
+446,Daddy's Little Girl,Bradd Chambers,59472.0,52.44,7.42,2.99,1.12,1.86,[],
+447,The Disappearing Spoon,Sam Keene,94729.0,62.59,5.09,3.51,1.64,1.87,"['Science', 'Nonfiction', 'History', 'Middle Grade', 'Chemistry', 'Childrens', 'Audiobook']",2018.0
+448,The Hardy Boys: Shield of Fear,Franklin W. Dixon,29739.0,39.07,7.21,3.06,1.12,1.93,[],
+449,Shadow,Nadine Nightingale,88067.0,55.35,7.7,2.36,0.63,1.73,[],
+450,Expensive Halo,Josephine Tey,58461.0,34.27,11.04,3.41,1.13,2.28,[],
+451,More Than the Sum of His Parts,Joe Halderman,189911.0,50.61,7.83,3.03,1.12,1.9,"['Short Stories', 'Science Fiction', 'Fiction']",1991.0
+452,A Dark So Deadly,Stuart Macbride,193461.0,71.59,6.86,2.34,0.51,1.83,"['Crime', 'Mystery', 'Thriller', 'Fiction', 'Scotland', 'Detective', 'Suspense']",2017.0
+453,Heart-Breaker,Claudia Dey,72102.0,65.76,7.49,2.15,0.58,1.57,[],
+454,The Book of Perilous Dishes,Doina Rusti,86491.0,48.55,8.49,2.68,0.75,1.93,"['Historical Fiction', 'Fantasy', 'Fiction', 'Romanian Literature', 'Romania', 'Historical', 'Unfinished']",2017.0
+455,Operation Devil's Vengeance,M. J. Javani,73888.0,43.02,7.37,2.49,0.94,1.55,[],
+456,Echoes among the Stones,Jamie Jo Wright,107020.0,54.89,7.68,2.66,0.71,1.95,"['Mystery', 'Christian Fiction', 'Historical Fiction', 'Fiction', 'Suspense', 'Contemporary', 'Mystery Thriller']",2019.0
+457,An Acceptable Time,Madeleine L'Engle,79619.0,53.21,9.14,3.11,1.27,1.84,"['Young Adult', 'Fantasy', 'Fiction']",2018.0
+458,Everything That Remains,The Minimalists,57359.0,45.3,7.63,3.45,1.34,2.1,[],
+459,Dark Ride,Ian Rob Wright,50947.0,51.83,8.31,2.78,0.93,1.85,[],2020.0
+460,"Buddhism: One Teacher, Many Traditions",The Dalai Lama & Thubten Chodron,94722.0,22.6,6.23,2.72,1.3,1.42,[],
+461,The Hardy Boys: Terror At High Tide,Franklin W. Dixon,29067.0,56.47,7.23,2.33,0.72,1.61,[],
+462,The Hardy Boys: Trial and Terror,Franklin W. Dixon,30230.0,42.0,7.77,2.8,0.89,1.92,[],
+463,City of Iron and Dust,Jonathan Wood,115060.0,60.54,8.32,2.88,0.83,2.05,[],
+464,Don't Wake Me,Martin Kruger,77798.0,55.77,8.35,3.05,1.16,1.89,"['Thriller', 'Fiction', 'Mystery', 'Mystery Thriller']",2019.0
+465,White Wasteland,Jeff Kirkham & Jason Ross,138111.0,52.0,6.79,2.17,0.71,1.46,[],
+466,Princes of the Lower East Side,Meredith Allison,139011.0,41.91,7.85,3.18,1.11,2.07,[],
+467,A Fairly Dangerous Thing,Reginald Hill,63197.0,39.59,8.09,3.88,1.95,1.93,[],
+468,The Fixer,Ben Herzog,116681.0,40.3,9.13,2.82,1.0,1.82,[],
+469,The Investigation,Stanislaw Lem,65103.0,48.8,7.32,3.83,1.71,2.11,"['Science Fiction', 'Fiction', 'Mystery', 'Polish Literature', 'Crime', 'Classics', 'Novels']",1958.0
+470,10 Bodies Lying,Stephaniue Bond,45107.0,45.48,7.91,2.97,0.83,2.14,"['Mystery', 'Romance', 'Cozy Mystery', 'Mystery Thriller', 'Chick Lit', 'Audiobook']",2019.0
+471,Cage of Glass,Genevieve Crownson,70143.0,49.93,7.62,3.11,1.23,1.88,[],
+472,No One Writes to the Colonel,Gabriel Garcia Marquez,18099.0,54.55,6.69,1.9,0.46,1.44,[],
+473,The Reaper Seal,Anthony Davies,121721.0,45.38,6.3,2.68,0.93,1.75,['Fiction'],2018.0
+474,Internal Affairs,Joe Cullen,74206.0,48.06,8.03,2.39,0.61,1.77,[],
+475,Have Your Ticket Punched,Frank James,80765.0,57.46,7.49,2.09,0.59,1.51,[],
+476,The Weaver,Emmi Itaranta,91299.0,74.29,6.23,2.24,0.68,1.56,"['Fantasy', 'Fiction', 'Finnish Literature', 'Dystopia', 'LGBT', 'Science Fiction', 'Queer']",2015.0
+477,Salvation's Fire,Junstina Robson,128063.0,55.2,7.38,3.18,1.17,2.01,"['Fantasy', 'High Fantasy', 'Fiction', 'Science Fiction Fantasy']",2018.0
+478,Want You Gone,Chris Brookmyre,129955.0,32.17,9.92,3.38,1.14,2.24,"['Crime', 'Thriller', 'Fiction', 'Mystery', 'Scotland', 'British Literature', 'Suspense']",2017.0
+479,Desires and Dreams and Powers,Rosamund Hodge,64375.0,53.94,8.32,2.87,0.73,2.13,[],
+480,Demons of Divinity,Luke R. Matchell,140619.0,42.47,7.36,3.48,1.53,1.94,[],2018.0
+481,The Hardy Boys: Sidetracked To Danger,Franklin W. Dixon,29134.0,49.27,6.58,2.39,0.82,1.56,[],
+482,Little Eyes,Samantha Schweblin,63745.0,40.96,7.43,2.98,0.82,2.16,"['Fiction', 'Horror', 'Science Fiction', 'Dystopia', 'Contemporary', 'Speculative Fiction', 'Novels']",2018.0
+483,The Hardy Boys: Cast of Criminals,Franklin W. Dixon,30384.0,52.35,7.23,2.88,1.09,1.79,[],
+484,Harry Potter and the Sorcerer's Stone,J. K. Rowling,77469.0,53.68,8.34,3.34,1.12,2.22,[],
+485,A Gift of Griffins,V. M. Escalada,108356.0,41.86,9.4,2.92,0.97,1.95,[],
+486,The Hex Files,Gina Lamanna,85250.0,43.47,8.6,2.82,1.14,1.68,[],
+487,The Life She Left Behind,Christina Slough,85774.0,47.7,8.66,2.91,1.06,1.84,"['Fiction', 'Thriller', 'Mystery']",
+488,The Villagers,Gwyn GB,78524.0,43.78,9.07,3.54,1.21,2.33,[],2019.0
+489,This World is Full of Monsters,Jeff Vandermeer,10057.0,52.86,7.95,2.87,0.31,2.57,"['Short Stories', 'Science Fiction', 'Horror', 'Fantasy', 'Fiction', 'Audiobook', 'Weird Fiction']",2017.0
+490,Dead Man's Track,Sarah Barrie,105719.0,43.18,9.03,3.01,1.03,1.98,[],
+491,The Singing Sands,Josephine Tey,68986.0,40.43,9.29,2.78,0.78,2.0,[],
+492,The Truth,Terry Pratchett,103159.0,46.99,8.99,3.49,1.33,2.16,[],
+493,Invisible Women of History,Judy Foster & Marlene Derlet,128446.0,58.45,5.64,2.44,1.05,1.39,[],
+494,Anonymous,Elizabeth Breck,82770.0,36.72,9.85,2.92,0.86,2.06,[],
+495,Death at Coombe Far,Phillip Strange,65372.0,22.3,11.7,2.29,0.5,1.79,['Mystery'],2018.0
+496,Nightingale House,Steve French,70542.0,48.45,8.51,2.67,0.98,1.69,"['Horror', 'Mystery', 'Thriller', 'Fiction', 'Paranormal', 'Mystery Thriller', 'Audiobook']",2017.0
+497,The Hardy Boys: Hidden Mountain,Franklin W. Dixon,31889.0,33.49,9.29,3.59,1.11,2.48,[],
+498,Daddy,Danielle Steel,105578.0,27.0,10.15,3.74,1.19,2.55,[],
+499,The Russian Cage,Charlaine Harts,77595.0,36.08,10.37,2.62,0.65,1.97,"['Fantasy', 'Urban Fantasy', 'Fiction', 'Westerns', 'Alternate History', 'Magic', 'Mystery']",2021.0
+500,Libra,Alathia Morgan,34996.0,25.26,10.94,2.71,0.76,1.95,[],
+501,"Kingdom, Tiber City Blues",Anderson O'Donnell,70091.0,67.39,5.24,1.95,0.4,1.56,[],2019.0
+502,The Hardy Boys: Slam Dunk Sabotage,Franklin W. Dixon,29530.0,49.54,6.69,2.51,0.92,1.58,[],
+503,Full Disclosure,Beverly McLachlin,72280.0,44.18,7.48,2.59,0.91,1.68,"['Mystery', 'Fiction', 'Canada', 'Thriller', 'Crime', 'Mystery Thriller', 'Contemporary']",2018.0
+504,Fear No Evil,John Gordon Davis,130084.0,67.01,6.49,3.51,1.36,2.15,[],
+505,Females: A Concern,Andrea Long Chu,18200.0,41.77,7.45,3.31,1.76,1.55,[],
+506,Why Superman Doesn't Take Over the World,J. Brian O'Roark,65733.0,25.74,8.52,3.1,1.26,1.85,"['Economics', 'Nonfiction']",2019.0
+507,The Waking Place,Emerald O'Brien,65159.0,46.35,7.48,1.84,0.39,1.45,['Thriller'],2021.0
+508,The Awakening,Kevin Potter,21069.0,46.55,8.19,3.31,1.22,2.09,[],
+509,The Carnival of Ash,Tom Beckerlegge,141692.0,62.36,5.82,2.39,1.05,1.34,[],
+510,Death and Other Obsessions,Robert Mills,83230.0,31.58,10.31,2.95,1.05,1.9,[],
+511,The Hardy Boys: Breakdown In Axeblade,Franklin W. Dixon,31656.0,52.59,7.34,2.69,0.97,1.72,[],
+512,The Hardy Boys: Kickoff To Danger,Franklin W. Dixon,28687.0,42.5,7.76,2.59,0.87,1.72,[],
+513,Cross Town,Loren W. Cooper,97312.0,59.44,6.67,2.58,1.19,1.39,[],
+514,The Women,T. C. Boyle,180303.0,58.89,7.01,2.65,0.84,1.81,[],
+515,The Banshee Palace,Christopher Petersen,18853.0,50.91,6.02,1.77,0.4,1.37,"['Crime', 'Novella']",2021.0
+516,Sam Wilson,Zodiac,96217.0,46.19,8.19,2.27,0.93,1.34,[],
+517,Jeremiah's Revenge,Sandra Brennan,96171.0,46.4,8.11,2.9,1.21,1.69,"['Mystery', 'Thriller', 'Mystery Thriller', 'Fiction']",2018.0
+518,The Hardy Boys: Fear On Wheels,Franklin W. Dixon,32416.0,43.88,7.55,2.21,0.66,1.55,[],
+519,Two Women and a Poisoning,Alfred Doblin,22934.0,29.56,7.86,2.81,1.04,1.77,"['Nonfiction', 'Crime', 'German Literature', 'Psychology', 'LGBT', 'Romance']",1924.0
+520,Eves Rib,C. S. O Cinneide,81952.0,51.94,8.01,2.5,0.79,1.71,"['Thriller', 'Fiction', 'Mystery Thriller']",2022.0
+521,Siege,Stephen White,119341.0,40.08,9.18,2.17,0.76,1.4,[],
+522,The Transformation of Man,J. Krishnamurti,79250.0,14.24,12.09,4.08,1.32,2.75,[],
