@@ -130,3 +130,4 @@ dmypy.json
 
 #Raw data folder
 word-counts/
+CSVs/word_count_csvs/
